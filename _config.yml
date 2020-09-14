@@ -42,6 +42,8 @@ links:
     url: /tags
   - title: About Me
     url: /about
+  - title: Resume
+    url: "/Darshil Shah Resume.pdf"
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
