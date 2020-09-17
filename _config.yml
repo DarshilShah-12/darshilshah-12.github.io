@@ -9,14 +9,15 @@ username: Darshil Shah
 user_description: 3B Engineering Student @ uWaterloo
 user_title: 3B Engineering Student @ uWaterloo
 email: dr5shah@uwaterloo.ca
-twitter_username: lorem_ipsum
+# twitter_username: lorem_ipsum
 github_username:  DarshilShah-12
-gplus_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
 disqus_username: disqus_vsUMaWjaMi
 leetcode_username: WhatsDerivative
 codechef_username: whatsderivativ
 codeforces_username: WhatsDerivative
 chesscom_username: WhatsDerivative
+linkedin_username: darshil-shah
 
 # Build settings
 markdown: kramdown
@@ -36,10 +37,10 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
+  # - title: Series
+  #   url: /series
+  # - title: Tags
+  #   url: /tags
   - title: About Me
     url: /about
   - title: Resume
