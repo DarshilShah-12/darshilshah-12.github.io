@@ -2,7 +2,7 @@
 title: Darshil Shah
 description: Darshil Shah
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://darsh.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Darshil Shah
